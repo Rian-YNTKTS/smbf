@@ -12,10 +12,10 @@ $ pip install bs4
 $ pip install requests  
 $ pip install mechanize  
 $ pip install futures  
-$ rm -rf smbf 
+$ rm -rf smbf   
 $ git clone https://github.com/Rian-YNTKTS/smbf
 
 # Menjalankan Script
 
-$ cd smbf
+$ cd smbf   
 $ python run.py
