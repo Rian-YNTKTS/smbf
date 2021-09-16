@@ -18,4 +18,5 @@ $ git clone https://github.com/Rian-YNTKTS/smbf
 # Menjalankan Script
 
 $ cd smbf
+
 $ python run.py
