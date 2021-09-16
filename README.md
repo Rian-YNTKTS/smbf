@@ -1,6 +1,6 @@
 # Simple Multi Brute Force
 
-Sebuah Script Untuk Mengorek Akun Epep Emel Dan Pubji
+Sebuah Script Untuk Mengkrek Akun Epep Emel Dan Pubji
 
 # Cara Install
 
