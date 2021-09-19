@@ -15,7 +15,7 @@ h = "\x1b[0;32m" # hijau
 k = "\x1b[0;33m" # kuning
 b = "\x1b[0;34m" # biru
 u = "\x1b[0;35m" # ungu
-o = "\x1b[0;36m" # biru muda
+,o = "\x1b[0;36m" # biru muda
 
 if ("linux" in sys.platform.lower()):
 
