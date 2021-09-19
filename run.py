@@ -1,4 +1,4 @@
-f#!/usr/bin/python3
+f#!/usr/bin/python
 #-*-coding:utf-8-*-
 # Made With ❤️ By Rian Sptr
 
