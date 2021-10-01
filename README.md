@@ -23,4 +23,5 @@ $ python run.py
 # Sosial Media
 
 WhatsApp:081293904860
-Facebook:Facebook.com/Rian.yntkts
+
+Facebook:Facebook.com/rian.yntkts
