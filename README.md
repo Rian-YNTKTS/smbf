@@ -20,7 +20,7 @@ $ git clone https://github.com/Rian-YNTKTS/smbf
 $ cd smbf   
 $ python run.py
 
-#Sosial Media
+# Sosial Media
 
 WhatsApp:081293904860
 Facebook:Facebook.com/Rian.yntkts
